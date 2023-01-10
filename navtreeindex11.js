@@ -1,11 +1,5 @@
 var NAVTREEINDEX11 =
 {
-"dc/dfe/ternary__search_8cpp.html#ae30dfe2894191bfeffe5b3b1854b95b0":[11,0,20,11,4],
-"dc/dfe/ternary__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,20,11,5],
-"dc/dfe/ternary__search_8cpp.html#aef655a27eb82efa299bf9d0becf6e9c8":[11,0,20,11,7],
-"dd/d0c/hamiltons__cycle_8cpp.html":[11,0,8,7],
-"dd/d0c/hamiltons__cycle_8cpp.html#a0cc94918b6831f308d4fe4fa27f08299":[11,0,8,7,4],
-"dd/d0c/hamiltons__cycle_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[11,0,8,7,1],
 "dd/d0c/hamiltons__cycle_8cpp.html#a45d94ead4cf4e1ff9f87c38bc99f59ae":[11,0,8,7,3],
 "dd/d0c/hamiltons__cycle_8cpp.html#abcf824e347eecfeeb69ea0280f34f3e4":[11,0,8,7,0],
 "dd/d0c/hamiltons__cycle_8cpp.html#ae7880ce913f3058a35ff106d5be9e243":[11,0,8,7,2],
@@ -42,8 +36,8 @@ var NAVTREEINDEX11 =
 "dd/d1f/classdsu.html#a1ef0b0462a0dda63514f641cbb7dd8cb":[10,0,24,16],
 "dd/d1f/classdsu.html#a4ade6f16c418fc98b54452f7b0252a53":[10,0,24,14],
 "dd/d1f/classdsu.html#a4bf54d33fba178998dbbe4c57f2e9429":[10,0,24,13],
-"dd/d1f/classdsu.html#a64d25c5986742f7c234ed449b2ff7303":[10,0,24,9],
 "dd/d1f/classdsu.html#a64d25c5986742f7c234ed449b2ff7303":[10,0,24,8],
+"dd/d1f/classdsu.html#a64d25c5986742f7c234ed449b2ff7303":[10,0,24,9],
 "dd/d1f/classdsu.html#a696141b8b092466767f4bfe1c5e46cde":[10,0,24,5],
 "dd/d1f/classdsu.html#a6ac30c07abca2aaa3b291504c25c3559":[10,0,24,11],
 "dd/d1f/classdsu.html#a81897528bdb53fd5e796d75d7dbc430f":[10,0,24,12],
@@ -249,5 +243,11 @@ var NAVTREEINDEX11 =
 "de/d75/qr__eigen__values_8cpp.html#abb8bf4c55e10685a5eb2ad3797fde1ae":[11,0,14,20,4],
 "de/d75/qr__eigen__values_8cpp.html#aee57a411f07599034f5ceb8cc7d65b40":[11,0,14,20,0],
 "de/d7b/merge__insertion__sort_8cpp.html":[11,0,21,10],
-"de/d7b/merge__insertion__sort_8cpp.html#a0cba4fbf287ab8cb978ed7f8fef886b1":[11,0,21,10,0]
+"de/d7b/merge__insertion__sort_8cpp.html#a0cba4fbf287ab8cb978ed7f8fef886b1":[11,0,21,10,0],
+"de/d7b/merge__insertion__sort_8cpp.html#a7161278f18e83b671c6454b139cc5674":[11,0,21,10,3],
+"de/d7b/merge__insertion__sort_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,21,10,4],
+"de/d7b/merge__insertion__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,21,10,1],
+"de/d7b/merge__insertion__sort_8cpp.html#af4de4067a9a866ffd985c5b5055ccedf":[11,0,21,10,2],
+"de/d83/namespaceis__graph__bipartite.html":[9,0,44],
+"de/d85/decimal__to__roman__numeral_8cpp.html":[11,0,16,3]
 };
