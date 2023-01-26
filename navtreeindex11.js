@@ -2,7 +2,7 @@ var NAVTREEINDEX11 =
 {
 "dc/d9c/babylonian__method_8cpp.html#abf9e6b7e6f15df4b525a2e7705ba3089":[11,0,14,0,1],
 "dc/db4/md__r_e_v_i_e_w_e_r__c_o_d_e.html":[6],
-"dc/db5/struct_queue.html":[10,0,45],
+"dc/db5/struct_queue.html":[10,0,44],
 "dc/db5/text__search_8cpp.html":[11,0,20,12],
 "dc/db5/text__search_8cpp.html#a3f8975d227cd0e58f298b380c5dac0d9":[11,0,20,12,0],
 "dc/db5/text__search_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,20,12,2],
