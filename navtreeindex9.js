@@ -1,5 +1,8 @@
 var NAVTREEINDEX9 =
 {
+"d9/dde/classbinary__search__tree.html#a99771c2e1353e8ddfd4bb9d30b7a98fb":[10,0,17,14],
+"d9/dde/classbinary__search__tree.html#a9d1e7e10efa74d741bf48cf032df3778":[10,0,17,11],
+"d9/dde/classbinary__search__tree.html#aa08f65f6f3bfcb14f8c3d1e65305ae50":[10,0,17,19],
 "d9/dde/classbinary__search__tree.html#aa4f84b2eec9b9201af1840868ddb5fb2":[10,0,17,2],
 "d9/dde/classbinary__search__tree.html#aa67321ed575ca313cd71d833d91234a6":[10,0,17,1],
 "d9/dde/classbinary__search__tree.html#ab81edd415324d372632c42dc7dbcb9e1":[10,0,17,18],
@@ -239,15 +242,12 @@ var NAVTREEINDEX9 =
 "db/d16/0__1__knapsack_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,6,0,0],
 "db/d19/structlinear__probing_1_1_entry.html":[9,0,55,0],
 "db/d19/structlinear__probing_1_1_entry.html":[10,0,6,0],
-"db/d19/structlinear__probing_1_1_entry.html#a2139f643a3caf074da1db8a9fa16fa77":[9,0,55,0,0],
 "db/d19/structlinear__probing_1_1_entry.html#a2139f643a3caf074da1db8a9fa16fa77":[10,0,6,0,0],
-"db/d19/structlinear__probing_1_1_entry.html#a4d84e90b73022083761f85f8586c4c2a":[10,0,6,0,1],
+"db/d19/structlinear__probing_1_1_entry.html#a2139f643a3caf074da1db8a9fa16fa77":[9,0,55,0,0],
 "db/d19/structlinear__probing_1_1_entry.html#a4d84e90b73022083761f85f8586c4c2a":[9,0,55,0,1],
+"db/d19/structlinear__probing_1_1_entry.html#a4d84e90b73022083761f85f8586c4c2a":[10,0,6,0,1],
 "db/d27/n__bonacci_8cpp.html":[11,0,13,38],
 "db/d27/n__bonacci_8cpp.html#a6849b68f760be628d5975ab3eddec63d":[11,0,13,38,1],
 "db/d27/n__bonacci_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,13,38,2],
-"db/d27/n__bonacci_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,13,38,0],
-"db/d3c/tower__of__hanoi_8cpp.html":[11,0,16,20],
-"db/d3c/tower__of__hanoi_8cpp.html#a746d9a3984bba88fd6dd91978f6931ed":[11,0,16,20,3],
-"db/d3c/tower__of__hanoi_8cpp.html#ab037f72a5eac476535a6cfbbcb965417":[11,0,16,20,4]
+"db/d27/n__bonacci_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,13,38,0]
 };

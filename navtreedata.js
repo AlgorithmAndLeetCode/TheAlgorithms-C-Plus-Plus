@@ -141,12 +141,12 @@ var NAVTREEINDEX =
 "d4/d9f/selection__sort__recursive_8cpp.html#ab6f7b33a070e376e1f4374e534435e89",
 "d6/d1a/dnf__sort_8cpp.html",
 "d7/d56/count__bits__flip_8cpp.html",
-"d8/d95/vector__ops_8hpp.html#ad0bdc88e5f1be47c46c0f0c8ebf754bb",
-"d9/dde/classbinary__search__tree.html#aa4f84b2eec9b9201af1840868ddb5fb2",
-"db/d3c/tower__of__hanoi_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"dc/d82/area_8cpp.html#ac5803413618fcfb922cb32c6db0fc864",
-"dd/de1/classothers_1_1recursive__tree__traversals_1_1_b_t.html#abce10afbf9e16ce4a788af6b58abbebb",
-"df/dce/namespacegraph.html#a83ab16e96cec644109a58dfc9329bc2b"
+"d8/d95/vector__ops_8hpp.html#acafa3e62b686aebdbad81c4f89913f43",
+"d9/dde/classbinary__search__tree.html#a99771c2e1353e8ddfd4bb9d30b7a98fb",
+"db/d3c/tower__of__hanoi_8cpp.html",
+"dc/d82/area_8cpp.html#a5de184925e68658f15415dd53954df4f",
+"dd/dca/class_f_c_f_s.html#a8fbfe4d85f7576b4a7aade07d29fbd69",
+"df/dc8/successive__approximation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
