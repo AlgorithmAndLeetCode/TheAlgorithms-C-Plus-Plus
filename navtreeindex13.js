@@ -1,5 +1,10 @@
 var NAVTREEINDEX13 =
 {
+"df/d94/subarray__sum_8cpp.html#af5687bbd9faf927fbd363c71e0baba5e":[11,0,0,7,1],
+"df/d99/structstd_1_1is__unsigned_3_01uint256__t_01_4.html":[9,0,110,10],
+"df/d99/structstd_1_1is__unsigned_3_01uint256__t_01_4.html":[10,0,16,5],
+"df/dc8/successive__approximation_8cpp.html":[11,0,14,22],
+"df/dc8/successive__approximation_8cpp.html#a79c1d08919ff7780a5d7723172602389":[11,0,14,22,0],
 "df/dc8/successive__approximation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,14,22,2],
 "df/dc8/successive__approximation_8cpp.html#ae89c36add7c55298c5195d0a83de1456":[11,0,14,22,1],
 "df/dcb/namespacestrings.html":[9,0,114],
@@ -114,8 +119,8 @@ var NAVTREEINDEX13 =
 "functions_x.html":[10,3,0,23],
 "functions_y.html":[10,3,0,24],
 "functions_~.html":[10,3,0,25],
-"globals.html":[11,1,0],
 "globals.html":[11,1,0,0],
+"globals.html":[11,1,0],
 "globals_a.html":[11,1,0,1],
 "globals_b.html":[11,1,0,2],
 "globals_c.html":[11,1,0,3],
