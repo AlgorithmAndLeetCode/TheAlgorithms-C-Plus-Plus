@@ -137,16 +137,16 @@ var NAVTREEINDEX =
 "cpp/iterator/distance.html",
 "cpp/thread/lock.html",
 "d1/d83/classuint256__t.html#ad4928175eaaaa2b559bc945affe63ad2",
-"d3/d4c/quick__sort__3_8cpp.html#a6eb67c2f91c98cf4464f75b5882022de",
-"d4/d9f/selection__sort__recursive_8cpp.html#ab6f7b33a070e376e1f4374e534435e89",
-"d6/d1a/dnf__sort_8cpp.html",
-"d7/d56/count__bits__flip_8cpp.html",
-"d8/d95/vector__ops_8hpp.html#a912cf68863063a38d6e63545be5eb093",
-"d9/dde/classbinary__search__tree.html#a5c011e1b0863d79c3a7c11a0426bdcff",
-"db/d19/structlinear__probing_1_1_entry.html#a4d84e90b73022083761f85f8586c4c2a",
-"dc/d64/md__coding_guidelines.html#autotoc_md20",
-"dd/da8/pigeonhole__sort_8cpp.html#a34b8683a2b429de5cce57e6d733ec817",
-"df/d82/breadth__first__search_8cpp.html#a483bb8ccf42aaf7375a83e91490eda1e"
+"d3/d4c/quick__sort__3_8cpp.html",
+"d4/d9f/selection__sort__recursive_8cpp.html",
+"d6/d10/cut__rod_8cpp.html",
+"d7/d47/structstd_1_1is__integral_3_01uint256__t_01_4.html",
+"d8/d95/vector__ops_8hpp.html#a6f1c98c016ad34ff3d9f39372161bd35",
+"d9/dde/classbinary__search__tree.html#a2fcf37549bd002c174a45b0b4203c2bd",
+"db/d19/structlinear__probing_1_1_entry.html",
+"dc/d61/classgraph_1_1_graph.html#acebf0505d625b043bb9c8c27c7a8def0",
+"dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle.html#af778034b2942ecac6df1e9ec8b5412ee",
+"df/d72/modular__division_8cpp.html#a905e368ae121beb7e7ea35349ddcdac7"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
