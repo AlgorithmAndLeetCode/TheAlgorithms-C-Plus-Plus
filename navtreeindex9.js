@@ -1,5 +1,6 @@
 var NAVTREEINDEX9 =
 {
+"d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73":[10,0,1,7,5],
 "d9/dc9/_2_users_2runner_2work_2_the_algorithms-_c-_plus-_plus_2_the_algorithms-_c-_plus-_plus_2sorting_2wiggle_sort_8cpp-example.html":[12,2],
 "d9/dc9/namespacebase64__encoding.html":[9,0,6],
 "d9/dca/namespacesearch.html":[9,0,99],
@@ -248,6 +249,5 @@ var NAVTREEINDEX9 =
 "db/d0d/prime__factorization_8cpp.html":[11,0,13,46],
 "db/d0d/prime__factorization_8cpp.html#a0ece0145fb29a5cf48378c23dde2da46":[11,0,13,46,1],
 "db/d0d/prime__factorization_8cpp.html#a7fe38b570a51e448430d6a0f072c2f23":[11,0,13,46,4],
-"db/d0d/prime__factorization_8cpp.html#acfb0df439a4beae5a34ef131ce737c1b":[11,0,13,46,3],
-"db/d0d/prime__factorization_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,13,46,0]
+"db/d0d/prime__factorization_8cpp.html#acfb0df439a4beae5a34ef131ce737c1b":[11,0,13,46,3]
 };
