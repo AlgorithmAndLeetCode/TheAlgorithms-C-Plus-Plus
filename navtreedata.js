@@ -95,10 +95,10 @@ var NAVTREE =
       [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md67", null ],
       [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md68", null ]
     ] ],
-    [ "Prime factorization", "d7/deb/md_math_2_r_e_a_d_m_e.html", null ],
+    [ "Prime factorization", "d7/d7f/section.html", null ],
     [ "Guidelines for reviewers and maintainers", "d7/d1b/md__r_e_v_i_e_w_e_r___c_o_d_e.html", null ],
     [ "Todo List", "dd/da0/todo.html", null ],
-    [ "Modules", "modules.html", "modules" ],
+    [ "Topics", "topics.html", "topics" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -137,20 +137,20 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"cpp/iterator/distance.html",
-"cpp/thread/lock.html",
-"d1/d83/classuint256__t.html#ac6bdcf64653af8173987bf7217e99056",
-"d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#a7bbe538c8015e8ce158e7ed43f605ebd",
-"d4/d8d/jarvis__algorithm_8cpp.html",
-"d5/d95/structdata__structures_1_1treap_1_1_treap.html#ab2db3ad3aecc240011e0c8b8604d2c69",
-"d6/dc1/classmath_1_1ncr__modulo__p_1_1_n_c_r_modulo_p.html#afde201f4687740454302c444f507a926",
-"d8/d77/namespacemachine__learning.html#a912cf68863063a38d6e63545be5eb093",
-"d9/d37/inverse__fast__fourier__transform_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
-"da/d94/classmachine__learning_1_1k__nearest__neighbors_1_1_knn.html",
-"db/d9f/iterative__factorial_8cpp.html#a2565c745aac2f9561cc6fd9e56d9b77a",
-"dd/d2f/class_trie.html#a6af57e9f25d0d0a2d59eea5a4a802908",
-"de/d85/decimal__to__roman__numeral_8cpp.html#a214743638eff1336f835310049aef979",
-"functions.html"
+"cpp/iterator/inserter.html",
+"cpp/utility/forward.html",
+"d1/d83/classuint256__t.html#ad9ce2370b1497efbcc426793048e1f78",
+"d3/d39/manacher__algorithm_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d4/d90/classdata__structures_1_1_skip_list.html#a40a4042bdf0b6683b5f21ae7854de8a9",
+"d5/d96/md5_8cpp.html#a88705fab5f92adf3427b4cf76ff33edb",
+"d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md32",
+"d8/d77/namespacemachine__learning.html#af4986b23760039711848155739c31b35",
+"d9/d49/structdata__structures_1_1_node.html#a6b973b0bded99b0c0bd84e887bf8c731",
+"da/d9a/class_graph.html#aa99d44d3179d5bbbfa84a5031cf80cb1",
+"db/dbc/tree__234_8cpp.html",
+"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a6c5f929afcbad5219646990edee22e18",
+"de/d9b/prime__numbers_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"functions_func_g.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
