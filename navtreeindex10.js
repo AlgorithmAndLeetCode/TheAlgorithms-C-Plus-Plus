@@ -1,5 +1,14 @@
 var NAVTREEINDEX10 =
 {
+"da/d50/count__of__trailing__ciphers__in__factorial__n_8cpp.html#a0d5e1d651d0d30bd682f176d8f2b83d0":[11,0,1,2,1],
+"da/d50/count__of__trailing__ciphers__in__factorial__n_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,1,2,2],
+"da/d50/count__of__trailing__ciphers__in__factorial__n_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,1,2,0],
+"da/d52/minimum__edit__distance_8cpp.html":[11,0,6,11],
+"da/d52/minimum__edit__distance_8cpp.html#a0138c226bd79ffe6d839c787cfc60347":[11,0,6,11,2],
+"da/d52/minimum__edit__distance_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[11,0,6,11,1],
+"da/d52/minimum__edit__distance_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,6,11,3],
+"da/d52/minimum__edit__distance_8cpp.html#ade2fcfe0359f3c7691bfaa04b14943e2":[11,0,6,11,0],
+"da/d5a/class_complex.html":[10,0,26],
 "da/d5a/class_complex.html#a312e4b19146128408fb06e0150b0faf6":[10,0,26,11],
 "da/d5a/class_complex.html#a36739619a07b5478bcd8a28ad2f8b7da":[10,0,26,7],
 "da/d5a/class_complex.html#a3cfc522c782726f49ee20af17b77f867":[10,0,26,0],
@@ -123,7 +132,7 @@ var NAVTREEINDEX10 =
 "db/d01/brent__method__extrema_8cpp.html#a6d0455dd5c30adda100e95f0423c786e":[11,0,15,2,6],
 "db/d01/brent__method__extrema_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,15,2,3],
 "db/d03/_s_t-example.html":[12,0],
-"db/d03/namespacewildcard__matching.html":[9,0,131],
+"db/d03/namespacewildcard__matching.html":[9,0,132],
 "db/d07/spiral__print_8cpp.html":[11,0,17,19],
 "db/d07/spiral__print_8cpp.html#a850d3f55e1a8d227176cdcc67352c197":[11,0,17,19,2],
 "db/d07/spiral__print_8cpp.html#acfff36db81326fb990a643ab198ee8a5":[11,0,17,19,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX10 =
 "db/d9a/classuint128__t.html#a312509b1c5b3ae5eaaf342f2ba131d03":[10,0,58,75],
 "db/d9a/classuint128__t.html#a334bc710f411f108a0243b24ac73b481":[10,0,58,62],
 "db/d9a/classuint128__t.html#a3c4a7e775a0820196fc08303bbeed44a":[10,0,58,57],
-"db/d9a/classuint128__t.html#a3facc74d6d078604fe2c80d0abfd3304":[10,0,58,70],
-"db/d9a/classuint128__t.html#a4147188abcdcdb12c61bfbe4e4c0a363":[10,0,58,5],
-"db/d9a/classuint128__t.html#a43eafd4824666b413befe5edbc90ae7f":[10,0,58,76],
-"db/d9a/classuint128__t.html#a44e472cf685cac6edc5172eac2e66860":[10,0,58,28],
-"db/d9a/classuint128__t.html#a44fd2a4a4cc1d13f93ac222db5a46c67":[10,0,58,68],
-"db/d9a/classuint128__t.html#a4562c218813c8705bccb25d8786ca77c":[10,0,58,52],
-"db/d9a/classuint128__t.html#a488e65a14d4c32a096011aa4725cdb30":[10,0,58,27],
-"db/d9a/classuint128__t.html#a5133f854a93efe47fd1f0f6a9589856d":[10,0,58,31],
-"db/d9a/classuint128__t.html#a55a3f122c4d982c60c2eb9fc09b9e004":[10,0,58,35],
-"db/d9a/classuint128__t.html#a56f579c802a6cc16f31e43af274453dc":[10,0,58,48]
+"db/d9a/classuint128__t.html#a3facc74d6d078604fe2c80d0abfd3304":[10,0,58,70]
 };

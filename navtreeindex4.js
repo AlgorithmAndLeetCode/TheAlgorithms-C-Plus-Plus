@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"d3/d06/ode__semi__implicit__euler_8cpp.html#af3adf7b092a87868917ee5fb4255192b":[11,0,15,17,0],
 "d3/d09/node_8hpp.html":[11,0,4,12],
 "d3/d09/node_8hpp_source.html":[11,0,4,12],
 "d3/d17/namespaceutil__functions.html":[9,0,126],
@@ -54,12 +55,12 @@ var NAVTREEINDEX4 =
 "d3/d80/z__function_8cpp.html#ac044c4794349a8cff6256b99950d5773":[11,0,23,6,3],
 "d3/d80/z__function_8cpp.html#ac186ca3ac3a69b5e52543bb13fe46db8":[11,0,23,6,0],
 "d3/d80/z__function_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,23,6,1],
-"d3/d84/word__break_8cpp.html":[11,0,6,15],
-"d3/d84/word__break_8cpp.html#a1cc9dd6e6190d10a010fdcdfe7a21a81":[11,0,6,15,1],
-"d3/d84/word__break_8cpp.html#a272b0f5cdb4e41fd6dee4538b808c06a":[11,0,6,15,0],
-"d3/d84/word__break_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,6,15,3],
-"d3/d84/word__break_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,6,15,2],
-"d3/d84/word__break_8cpp.html#afe4dcd6fd5282e535685361cba645d7c":[11,0,6,15,4],
+"d3/d84/word__break_8cpp.html":[11,0,6,16],
+"d3/d84/word__break_8cpp.html#a1cc9dd6e6190d10a010fdcdfe7a21a81":[11,0,6,16,1],
+"d3/d84/word__break_8cpp.html#a272b0f5cdb4e41fd6dee4538b808c06a":[11,0,6,16,0],
+"d3/d84/word__break_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,6,16,3],
+"d3/d84/word__break_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,6,16,2],
+"d3/d84/word__break_8cpp.html#afe4dcd6fd5282e535685361cba645d7c":[11,0,6,16,4],
 "d3/d91/namespacestrassens__multiplication.html":[9,0,113],
 "d3/d92/pancake__sort_8cpp.html":[11,0,22,13],
 "d3/d92/pancake__sort_8cpp.html#a99e27ad84ad43df9977776b1a8d5416e":[11,0,22,13,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "d4/d6c/boruvkas__minimum__spanning__tree_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,11,0,2],
 "d4/d7a/shell__sort2_8cpp.html":[11,0,22,21],
 "d4/d7a/shell__sort2_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[11,0,22,21,1],
-"d4/d7a/shell__sort2_8cpp.html#a22ea0d1f7943ebb4371d31e44b465b6d":[11,0,22,21,7],
-"d4/d7a/shell__sort2_8cpp.html#a4d76603c54d3dc56146e92d10a043924":[11,0,22,21,4]
+"d4/d7a/shell__sort2_8cpp.html#a22ea0d1f7943ebb4371d31e44b465b6d":[11,0,22,21,7]
 };
