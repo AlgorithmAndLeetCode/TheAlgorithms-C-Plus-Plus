@@ -140,17 +140,17 @@ var NAVTREEINDEX =
 "cpp/iterator/distance.html",
 "cpp/thread/lock.html",
 "d1/d83/classuint256__t.html#aa4cf08fa6a33f17594b5a842866f39a1",
-"d3/d06/ode__semi__implicit__euler_8cpp.html#af3adf7b092a87868917ee5fb4255192b",
-"d4/d7a/shell__sort2_8cpp.html#a4d76603c54d3dc56146e92d10a043924",
-"d5/d91/namespacesorting.html#ae3a775d99dbbb94c130a973df0cfddcf",
-"d6/d84/classhashing_1_1sha256_1_1_hash.html#a0896c27ac39c780e0ee62417fdd0b9d3",
-"d8/d64/namespaceboruvkas__minimum__spanning__tree.html",
-"d9/d12/classothers_1_1iterative__tree__traversals_1_1_binary_tree.html#ad4c6a8e67fb8267a65439b035666b5ae",
-"da/d50/count__of__trailing__ciphers__in__factorial__n_8cpp.html#a0d5e1d651d0d30bd682f176d8f2b83d0",
-"db/d9a/classuint128__t.html#a4147188abcdcdb12c61bfbe4e4c0a363",
-"dd/d0d/insertion__sort_8cpp.html#a59914553f24088342c139645a02a8a49",
-"de/d0d/classrange__queries_1_1fenwick__tree.html#ab492ebf07cab0e3c32d277ad986de801",
-"df/dce/namespacegraph.html#a84b0551489c613a681cc83b34450da4b"
+"d2/dc8/classdata__structures_1_1_stack.html#abb86ed67d9d97112897a09cfb10ff586",
+"d4/d4f/stooge__sort_8cpp.html",
+"d5/d8a/classothers_1_1postfix__expression_1_1_stack.html#af06360122e20ce2ba32c574a27a20ba1",
+"d6/d7a/golden__search__extrema_8cpp.html#a0283886819c7c140a023582b7269e2d0",
+"d8/d28/classrange__queries_1_1per_seg_tree.html#ad484002bcb701820d55f32ea5d525571",
+"d8/dfd/structoperations__on__datastructures_1_1reverse__binary__tree_1_1_node.html#a15dd7a0a7d9b1e8b2012c5161aecd6e3",
+"da/d39/volume_8cpp.html#a2d704a7b72a6b2db8b76c8581b577b2c",
+"db/d9a/classuint128__t.html",
+"dc/de1/recursive__tree__traversal_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0",
+"dd/de1/classothers_1_1recursive__tree__traversals_1_1_b_t.html#abce10afbf9e16ce4a788af6b58abbebb",
+"df/d88/namespacedp.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
