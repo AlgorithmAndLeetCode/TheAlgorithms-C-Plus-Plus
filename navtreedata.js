@@ -149,7 +149,7 @@ var NAVTREEINDEX =
 "da/d39/volume_8cpp.html#a2d704a7b72a6b2db8b76c8581b577b2c",
 "db/d9a/classuint128__t.html",
 "dc/de1/recursive__tree__traversal_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0",
-"dd/de1/classothers_1_1recursive__tree__traversals_1_1_b_t.html#abce10afbf9e16ce4a788af6b58abbebb",
+"dd/de1/classothers_1_1recursive__tree__traversals_1_1_b_t.html#af16da5fe0f5c54d31778d71d5a042114",
 "df/d88/namespacedp.html"
 ];
 

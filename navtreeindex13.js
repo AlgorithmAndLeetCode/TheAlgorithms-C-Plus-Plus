@@ -1,6 +1,6 @@
 var NAVTREEINDEX13 =
 {
-"dd/de1/classothers_1_1recursive__tree__traversals_1_1_b_t.html#abce10afbf9e16ce4a788af6b58abbebb":[10,0,13,3,0,2],
+"dd/de1/classothers_1_1recursive__tree__traversals_1_1_b_t.html#af16da5fe0f5c54d31778d71d5a042114":[10,0,13,3,0,0],
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html":[10,0,6,0,0],
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a6aef65b40347c4606662cad4dd2e14d3":[10,0,6,0,0,0],
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a816cda7e563198f778fd32e03992763b":[10,0,6,0,0,1],
