@@ -74,7 +74,8 @@ var annotated_dup =
     [ "greedy_algorithms", "d2/d90/namespacegreedy__algorithms.html", [
       [ "dijkstra", "d2/d2f/namespacegreedy__algorithms_1_1dijkstra.html", [
         [ "Graph", "d2/daa/classgreedy__algorithms_1_1dijkstra_1_1_graph.html", "d2/daa/classgreedy__algorithms_1_1dijkstra_1_1_graph" ]
-      ] ]
+      ] ],
+      [ "DigitSeparation", "da/d49/classgreedy__algorithms_1_1_digit_separation.html", "da/d49/classgreedy__algorithms_1_1_digit_separation" ]
     ] ],
     [ "hashing", "d6/d0c/namespacehashing.html", [
       [ "sha256", null, [
@@ -122,6 +123,10 @@ var annotated_dup =
       ] ]
     ] ],
     [ "others", "d0/d6f/namespaceothers.html", [
+      [ "Cache", "db/dde/namespaceothers_1_1_cache.html", [
+        [ "D_Node", "de/d21/classothers_1_1_cache_1_1_d___node.html", "de/d21/classothers_1_1_cache_1_1_d___node" ],
+        [ "LFUCache", "df/d8f/classothers_1_1_cache_1_1_l_f_u_cache.html", "df/d8f/classothers_1_1_cache_1_1_l_f_u_cache" ]
+      ] ],
       [ "iterative_tree_traversals", null, [
         [ "BinaryTree", "d9/d12/classothers_1_1iterative__tree__traversals_1_1_binary_tree.html", "d9/d12/classothers_1_1iterative__tree__traversals_1_1_binary_tree" ],
         [ "Node", "d2/d9a/structothers_1_1iterative__tree__traversals_1_1_node.html", "d2/d9a/structothers_1_1iterative__tree__traversals_1_1_node" ]
