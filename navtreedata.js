@@ -151,7 +151,7 @@ var NAVTREEINDEX =
 "dc/d82/area_8cpp.html",
 "dd/d92/memory__game_8cpp.html#ad573c8ae66ab66156d03e5e81bbba214",
 "df/d06/decimal__to__binary_8cpp.html#a10df57491019f0ac39b492740fb388f7",
-"globals_c.html"
+"globals.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
