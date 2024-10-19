@@ -1,5 +1,9 @@
 var NAVTREEINDEX12 =
 {
+"dc/d6d/power__of__2_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,1,6,2],
+"dc/d6d/power__of__2_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,1,6,1],
+"dc/d6d/structstd_1_1is__arithmetic_3_01uint256__t_01_4.html":[9,0,116,6],
+"dc/d6d/structstd_1_1is__arithmetic_3_01uint256__t_01_4.html":[10,0,19,1],
 "dc/d82/area_8cpp.html":[11,0,14,2],
 "dc/d82/area_8cpp.html#a3277e65a8f380e7632791975bfba0efb":[11,0,14,2,3],
 "dc/d82/area_8cpp.html#a40e36c67da78d2131408c57ee091ad75":[11,0,14,2,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX12 =
 "dd/d8a/namespacegeometric__dist.html":[9,0,36],
 "dd/d92/memory__game_8cpp.html":[11,0,7,0],
 "dd/d92/memory__game_8cpp.html#a33167bb9cce6d527b478b4f6ae8c3f59":[11,0,7,0,3],
-"dd/d92/memory__game_8cpp.html#a370760f2b328ad341bcb77d82fa17b01":[11,0,7,0,5],
-"dd/d92/memory__game_8cpp.html#a3ceeea62d8fa6c563e2c66359fd73413":[11,0,7,0,1],
-"dd/d92/memory__game_8cpp.html#a5714d97649c0edd57b4fb449799676a3":[11,0,7,0,0],
-"dd/d92/memory__game_8cpp.html#a5bdc30951221eae9c33413ff9eb574f6":[11,0,7,0,8],
-"dd/d92/memory__game_8cpp.html#ac589ef65abb0a6b9a7116ee0f9fd5280":[11,0,7,0,6]
+"dd/d92/memory__game_8cpp.html#a370760f2b328ad341bcb77d82fa17b01":[11,0,7,0,5]
 };
