@@ -145,13 +145,13 @@ var NAVTREEINDEX =
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md55",
 "d6/d57/array__right__rotation_8cpp.html#a167c24bd817469ae47358d12e034f2d5",
 "d8/d13/bubble__sort_8cpp.html",
-"d8/dd5/check__factorial_8cpp.html#a6c72f756a7bf1b9043c357e3fe7814ca",
-"da/d0d/longest__common__string_8cpp.html#a483bb8ccf42aaf7375a83e91490eda1e",
-"db/d40/integral__approximation2_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"dc/d64/md__coding_guidelines.html#autotoc_md20",
-"dd/d92/memory__game_8cpp.html",
-"de/dd9/catalan__numbers_8cpp.html",
-"functions_x.html"
+"d8/dab/classstatistics_1_1stats__computer2.html",
+"d9/dde/structdouble__hashing_1_1_entry.html#ae114967c89dbba3b754dc4976bba3248",
+"db/d0d/prime__factorization_8cpp.html#acfb0df439a4beae5a34ef131ce737c1b",
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#a7a2d742b9a3ae7b85292e1f86428bb4f",
+"dd/d47/namespacemath.html#ac5803413618fcfb922cb32c6db0fc864",
+"de/dc5/intersection__of__two__arrays_8cpp.html#aacafde185abd8670abee51157f273dc2",
+"functions_func_k.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
