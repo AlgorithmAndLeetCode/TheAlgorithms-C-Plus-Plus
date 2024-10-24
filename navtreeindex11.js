@@ -1,5 +1,8 @@
 var NAVTREEINDEX11 =
 {
+"db/d0d/prime__factorization_8cpp.html":[11,0,14,46],
+"db/d0d/prime__factorization_8cpp.html#a0ece0145fb29a5cf48378c23dde2da46":[11,0,14,46,1],
+"db/d0d/prime__factorization_8cpp.html#a7fe38b570a51e448430d6a0f072c2f23":[11,0,14,46,4],
 "db/d0d/prime__factorization_8cpp.html#acfb0df439a4beae5a34ef131ce737c1b":[11,0,14,46,3],
 "db/d0d/prime__factorization_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,14,46,0],
 "db/d0d/prime__factorization_8cpp.html#af097796783684712b8326e5b82bfd4fe":[11,0,14,46,5],
@@ -60,10 +63,10 @@ var NAVTREEINDEX11 =
 "db/d71/quadratic__probing__hash__table_8cpp.html#adccc63a7e57cc6dba75bd62f40feb88b":[11,0,12,4,7],
 "db/d71/quadratic__probing__hash__table_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,12,4,6],
 "db/d71/quadratic__probing__hash__table_8cpp.html#aeb6bca8db4768226f8ea8291ea4f83f6":[11,0,12,4,12],
-"db/d80/gale__shapley_8cpp.html":[11,0,11,3],
-"db/d80/gale__shapley_8cpp.html#a483bb8ccf42aaf7375a83e91490eda1e":[11,0,11,3,2],
-"db/d80/gale__shapley_8cpp.html#a6d7e84df47dcf19e88f95f8f9040306c":[11,0,11,3,0],
-"db/d80/gale__shapley_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,11,3,1],
+"db/d80/gale__shapley_8cpp.html":[11,0,11,4],
+"db/d80/gale__shapley_8cpp.html#a483bb8ccf42aaf7375a83e91490eda1e":[11,0,11,4,2],
+"db/d80/gale__shapley_8cpp.html#a6d7e84df47dcf19e88f95f8f9040306c":[11,0,11,4,0],
+"db/d80/gale__shapley_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,11,4,1],
 "db/d82/classlarge__number.html":[10,0,37],
 "db/d82/classlarge__number.html#a0b1efd203274e38a67b78937dfb9b872":[10,0,37,2],
 "db/d82/classlarge__number.html#a10119a83839e65962621b73df46a5337":[10,0,37,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX11 =
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#a01e6c7bf2b09272578b9c5819ce0f36f":[11,0,13,5,10],
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#a207b3a99fd5974d3117e0b0ac0aad234":[11,0,13,5,6],
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#a21c80569aaffb7bf1657e54fa4b97deb":[11,0,13,5,2],
-"dc/d38/ordinary__least__squares__regressor_8cpp.html#a42535e20e97d85aa61271e0894cc0359":[11,0,13,5,9],
-"dc/d38/ordinary__least__squares__regressor_8cpp.html#a4261f3c3c3dfdb86f3004eb8aaffea8d":[11,0,13,5,5],
-"dc/d38/ordinary__least__squares__regressor_8cpp.html#a4a6a560dbdd0177633783b72db37dc19":[11,0,13,5,11],
-"dc/d38/ordinary__least__squares__regressor_8cpp.html#a7075a0fccad9b2d79be0275bfe8948d4":[11,0,13,5,13]
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#a42535e20e97d85aa61271e0894cc0359":[11,0,13,5,9]
 };

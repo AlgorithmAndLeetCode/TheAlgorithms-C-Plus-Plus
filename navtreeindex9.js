@@ -94,6 +94,9 @@ var NAVTREEINDEX9 =
 "d9/d14/array__left__rotation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,16,0,0],
 "d9/d14/array__left__rotation_8cpp.html#af7b81d7a1534216af6a36a80135beb86":[11,0,16,0,8],
 "d9/d14/array__left__rotation_8cpp.html#afce39cf843989a39811a49ebe29dd6d8":[11,0,16,0,2],
+"d9/d1f/binary__addition_8cpp.html":[11,0,11,0],
+"d9/d1f/binary__addition_8cpp.html#a483bb8ccf42aaf7375a83e91490eda1e":[11,0,11,0,2],
+"d9/d1f/binary__addition_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,11,0,1],
 "d9/d21/namespacewave__sort.html":[9,0,137],
 "d9/d23/classgraph_1_1_lowest_common_ancestor.html":[9,0,39,2],
 "d9/d23/classgraph_1_1_lowest_common_ancestor.html":[10,0,6,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX9 =
 "d9/dde/classbinary__search__tree.html#ad9912e8574538e86f9bd2c38e7e63d03":[10,0,21,7],
 "d9/dde/classbinary__search__tree.html#af4a865ce5244608819b169fc78a41153":[10,0,21,13],
 "d9/dde/classbinary__search__tree.html#af9a2c7c187a7ca3142c77ce342ef3153":[10,0,21,6],
-"d9/dde/structdouble__hashing_1_1_entry.html":[9,0,26,0],
-"d9/dde/structdouble__hashing_1_1_entry.html":[10,0,4,0],
-"d9/dde/structdouble__hashing_1_1_entry.html#a287b92112b6b43b34808a93778873475":[9,0,26,0,0],
-"d9/dde/structdouble__hashing_1_1_entry.html#a287b92112b6b43b34808a93778873475":[10,0,4,0,0]
+"d9/dde/structdouble__hashing_1_1_entry.html":[9,0,26,0]
 };
