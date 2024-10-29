@@ -1,5 +1,6 @@
 var NAVTREEINDEX11 =
 {
+"db/d07/spiral__print_8cpp.html#acfff36db81326fb990a643ab198ee8a5":[11,0,17,22,0],
 "db/d07/spiral__print_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,17,22,1],
 "db/d09/duval_8cpp.html":[11,0,23,2],
 "db/d09/duval_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,23,2,2],
@@ -182,7 +183,7 @@ var NAVTREEINDEX11 =
 "db/d9f/iterative__factorial_8cpp.html#a2565c745aac2f9561cc6fd9e56d9b77a":[11,0,14,27,0],
 "db/d9f/iterative__factorial_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,14,27,2],
 "db/d9f/iterative__factorial_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,14,27,1],
-"db/da4/namespacestd_1_1regex__constants.html":[9,0,117,2],
+"db/da4/namespacestd_1_1regex__constants.html":[9,0,118,2],
 "db/da9/classqueue.html":[10,0,50],
 "db/da9/classqueue.html#a353e4dd5772575905c78b0b30856e368":[10,0,50,2],
 "db/da9/classqueue.html#a386fc1df8610948d3117b12f24655c7d":[10,0,50,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX11 =
 "dc/d1a/pascal__triangle_8cpp.html#ad7a31d9cb2818d21b1ba12aead7f4c5c":[11,0,17,16,2],
 "dc/d1a/pascal__triangle_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,17,16,0],
 "dc/d1f/classcatalan__numbers.html":[10,0,23],
-"dc/d1f/classcatalan__numbers.html#a54655c66cf89186d3d1fa90829b28ab8":[10,0,23,0],
-"dc/d2f/namespacecount__of__trailing__ciphers__in__factorial__n.html":[9,0,17]
+"dc/d1f/classcatalan__numbers.html#a54655c66cf89186d3d1fa90829b28ab8":[10,0,23,0]
 };
