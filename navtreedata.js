@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "Algorithms_in_C++", "index.html", [
+  [ "TheAlgorithms/C++", "index.html", [
     [ "The Algorithms - C++", "index.html", "index" ],
     [ "Contributor Covenant Code of Conduct", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md5", null ],
@@ -137,21 +137,20 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"cpp/iterator/distance.html",
-"cpp/thread/lock.html",
-"d1/d83/classuint256__t.html#a9ddd133cee83f3a2ab6ed60a7ccbc250",
-"d2/dc8/classdata__structures_1_1_stack.html#a8cb0602c8a9c1603d0315938177ecc6a",
-"d4/d3e/k__nearest__neighbors_8cpp.html#ad6ae16e50bb153ebaa7251d0aaa97b69",
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md54",
-"d6/d4a/addition__rule_8cpp.html#a565ffcbbdbe496ced37250bc8dc36bc0",
-"d7/def/trie__multiple__search_8cpp.html",
-"d8/d9c/union__of__two__arrays_8cpp.html#aacafde185abd8670abee51157f273dc2",
-"d9/dde/classbinary__search__tree.html#a8168edf29316f2b436eac1fc416c52e0",
-"db/d01/brent__method__extrema_8cpp.html#a002b2f4894492820fe708b1b7e7c5e70",
-"dc/d13/classdivide__and__conquer_1_1strassens__multiplication_1_1_matrix.html#af12ceffdc07cc87eca8a4a8ac87d60fe",
-"dd/d47/namespacemath.html#a7e78996673df791014cfe540b183456a",
-"de/db4/namespacedisjoint__union.html",
-"dir_e3380d2178455503f266746fb14246a5.html"
+"d1/d83/classuint256__t.html#acac9901ab133caa57d058a377d873bf6",
+"d2/dc8/classdata__structures_1_1_stack.html#a04e2e7cb58b2de6d3a15053bfaaf6080",
+"d4/d12/namespace_minimum.html",
+"d5/d45/sublist__search_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97",
+"d6/d26/classciphers_1_1_hill_cipher.html#a2eb58750b978a93ac5e6eb29e3e570b7",
+"d7/d35/matrix__exponentiation_8cpp.html#a600eaf353befc174637855795f12d258",
+"d8/d77/namespacemachine__learning.html#a2466857dab977a49f117029835b3b6d2",
+"d9/d14/array__left__rotation_8cpp.html#abdd77344d4af8fd56d14a5cabbf2f669",
+"da/d19/classprobability_1_1geometric__dist_1_1geometric__distribution.html#a8aae1cebcf42ed2332f1c7217c401aa3",
+"db/d3c/tower__of__hanoi_8cpp.html#ab037f72a5eac476535a6cfbbcb965417",
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#ade6e463f37878fe2a219f927c65b5493",
+"dd/d47/namespacemath.html#a8998ca7b1886d1d7d00aef3b457a9b1b",
+"de/d8c/partition__problem_8cpp_source.html",
+"df/dd0/queue__using__two__stacks_8cpp.html#a831ded10ecad88c14a8e22b96f4c1863"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
