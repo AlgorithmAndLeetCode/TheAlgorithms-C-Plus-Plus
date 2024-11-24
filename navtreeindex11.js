@@ -1,5 +1,6 @@
 var NAVTREEINDEX11 =
 {
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#a01e6c7bf2b09272578b9c5819ce0f36f":[11,0,13,6,10],
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#a207b3a99fd5974d3117e0b0ac0aad234":[11,0,13,6,6],
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#a21c80569aaffb7bf1657e54fa4b97deb":[11,0,13,6,2],
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#a42535e20e97d85aa61271e0894cc0359":[11,0,13,6,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX11 =
 "dd/d47/namespacemath.html#a0efb235330ff48e14fd31faaccbcebb3":[9,0,69,26],
 "dd/d47/namespacemath.html#a1d4df7a4e43a2eac1acc0ac610487c73":[9,0,69,12],
 "dd/d47/namespacemath.html#a2565c745aac2f9561cc6fd9e56d9b77a":[9,0,69,19],
-"dd/d47/namespacemath.html#a2d704a7b72a6b2db8b76c8581b577b2c":[9,0,69,45],
-"dd/d47/namespacemath.html#a3277e65a8f380e7632791975bfba0efb":[9,0,69,15]
+"dd/d47/namespacemath.html#a2d704a7b72a6b2db8b76c8581b577b2c":[9,0,69,45]
 };
