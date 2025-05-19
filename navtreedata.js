@@ -95,7 +95,6 @@ var NAVTREE =
       [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md67", null ],
       [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md68", null ]
     ] ],
-    [ "Prime factorization", "d7/d7f/section.html", null ],
     [ "Guidelines for reviewers and maintainers", "d7/d1b/md__r_e_v_i_e_w_e_r___c_o_d_e.html", null ],
     [ "Todo List", "dd/da0/todo.html", null ],
     [ "Topics", "topics.html", "topics" ],
@@ -137,21 +136,20 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d1/d83/classuint256__t.html#acac9901ab133caa57d058a377d873bf6",
-"d2/dc8/classdata__structures_1_1_stack.html#a04e2e7cb58b2de6d3a15053bfaaf6080",
-"d4/d12/namespace_minimum.html",
-"d5/d45/sublist__search_8cpp.html",
-"d6/d26/classciphers_1_1_hill_cipher.html#a12f727cca9e21f9539cd74b6603adf0c",
-"d7/d24/nqueen__print__all__solutions_8cpp.html#aea343d8a72a39c9a4c0fbcbc362f2648",
-"d8/d76/morse__code_8cpp.html#a0242e458904de8a242fcdaffe9e3ba1a",
-"d9/d12/classothers_1_1iterative__tree__traversals_1_1_binary_tree.html",
-"da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node.html#a7c867b8e1034a6f5da490c8b8c09cb77",
-"db/d19/structlinear__probing_1_1_entry.html",
-"dc/d38/ordinary__least__squares__regressor_8cpp.html#a01e6c7bf2b09272578b9c5819ce0f36f",
-"dd/d47/namespacemath.html#a3277e65a8f380e7632791975bfba0efb",
-"de/d83/namespaceis__graph__bipartite.html",
-"df/dce/namespacegraph.html"
+"d1/d83/classuint256__t.html#af2193ff0d0e93143fb71f4847df16028",
+"d3/d19/sparse__matrix_8cpp_source.html",
+"d4/d90/classdata__structures_1_1_skip_list.html#a3e249c2c35a8b7f5ffd2d77fee60d650",
+"d5/d95/structdata__structures_1_1treap_1_1_treap.html#a6a023a4f0c42fb8ed5b3368fba1a5f2c",
+"d6/db0/binomial__dist_8cpp.html#a78d36635232e54b5d71fcbf1eac9a49a",
+"d8/d2e/classothers_1_1_cache_1_1_l_r_u_cache.html#af8edfe5a7def5d5b846463041c33136a",
+"d9/d02/linear__search_8cpp.html#a84ac3988a534eb60ca351ed6caf56d84",
+"da/d18/quadratic__equations__complex__numbers_8cpp_source.html",
+"db/d71/quadratic__probing__hash__table_8cpp.html",
+"dc/d5a/rat__maze_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
+"dd/d47/namespacemath.html#afcd07701d73ed65cd616bcba02737f3d",
+"de/dcf/binary__exponent_8cpp_source.html",
+"functions_func_a.html"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
