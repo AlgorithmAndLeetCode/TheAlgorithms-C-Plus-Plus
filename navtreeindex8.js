@@ -1,5 +1,9 @@
 var NAVTREEINDEX8 =
 {
+"da/d18/quadratic__equations__complex__numbers_8cpp.html":[10,0,14,51],
+"da/d18/quadratic__equations__complex__numbers_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,14,51,3],
+"da/d18/quadratic__equations__complex__numbers_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,14,51,1],
+"da/d18/quadratic__equations__complex__numbers_8cpp.html#af7a6d4e3dc85a6288c8f1f7094830c5a":[10,0,14,51,0],
 "da/d18/quadratic__equations__complex__numbers_8cpp_source.html":[10,0,14,51],
 "da/d19/classprobability_1_1geometric__dist_1_1geometric__distribution.html":[9,0,14,0,0],
 "da/d19/classprobability_1_1geometric__dist_1_1geometric__distribution.html#a08328dc7d62188427111f176b56a105a":[9,0,14,0,0,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX8 =
 "db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html#af04a8f3536a52d8c9916086b656eefc2":[9,0,2,4,0,1],
 "db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html#afdfd2f4418c70b1bda50f2c3e416d80b":[9,0,2,4,0,5],
 "db/d66/struct_item.html":[9,0,40],
-"db/d6b/kelvin__to__celsius_8cpp.html":[10,0,17,9],
-"db/d6b/kelvin__to__celsius_8cpp.html#a483bb8ccf42aaf7375a83e91490eda1e":[10,0,17,9,3],
-"db/d6b/kelvin__to__celsius_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,17,9,2],
-"db/d6b/kelvin__to__celsius_8cpp_source.html":[10,0,17,9],
-"db/d6f/namespaceheavy__light__decomposition.html":[8,0,46]
+"db/d6b/kelvin__to__celsius_8cpp.html":[10,0,17,9]
 };
