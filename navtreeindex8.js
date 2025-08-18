@@ -1,5 +1,9 @@
 var NAVTREEINDEX8 =
 {
+"da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node.html#a005dc56b0c58350a13f4796b9b30b6c5":[9,0,12,0,1,0],
+"da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node.html#a12a06eef5ccaf667f319506eee655d95":[9,0,12,0,1,1],
+"da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node.html#a7461292b8b91aed86404d0ab019dfdd1":[9,0,12,0,1,2],
+"da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node.html#a7c867b8e1034a6f5da490c8b8c09cb77":[9,0,12,0,1,3],
 "da/d18/quadratic__equations__complex__numbers_8cpp.html":[10,0,14,51],
 "da/d18/quadratic__equations__complex__numbers_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,14,51,3],
 "da/d18/quadratic__equations__complex__numbers_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,14,51,1],
@@ -26,7 +30,7 @@ var NAVTREEINDEX8 =
 "da/d24/sqrt__double_8cpp.html#ae662282ad0740d2063ac404ca3bd74fc":[10,0,14,54,1],
 "da/d24/sqrt__double_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,14,54,0],
 "da/d24/sqrt__double_8cpp_source.html":[10,0,14,54],
-"da/d27/prim_8cpp_source.html":[10,0,9,17],
+"da/d27/prim_8cpp_source.html":[10,0,9,18],
 "da/d37/structdata__structures_1_1sparse__table_1_1_sparse__table.html":[9,0,2,3,0],
 "da/d37/structdata__structures_1_1sparse__table_1_1_sparse__table.html#a0c8cbe7239232863f104793c08273039":[9,0,2,3,0,0],
 "da/d37/structdata__structures_1_1sparse__table_1_1_sparse__table.html#a6cf72f93b1551f0d943c585b4f173be3":[9,0,2,3,0,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX8 =
 "db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html#a5540434e1b41245205eee86f664906f7":[9,0,2,4,0,3],
 "db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html#abdd461689df4983a3ad3b05d853cf5eb":[9,0,2,4,0,0],
 "db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html#ac0ddec9ab8f778dad23ec446d7a77b39":[9,0,2,4,0,2],
-"db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html#acf8ca54d5dd6676f255fff3dedacc7c6":[9,0,2,4,0,6],
-"db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html#af04a8f3536a52d8c9916086b656eefc2":[9,0,2,4,0,1],
-"db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html#afdfd2f4418c70b1bda50f2c3e416d80b":[9,0,2,4,0,5],
-"db/d66/struct_item.html":[9,0,40],
-"db/d6b/kelvin__to__celsius_8cpp.html":[10,0,17,9]
+"db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html#acf8ca54d5dd6676f255fff3dedacc7c6":[9,0,2,4,0,6]
 };
