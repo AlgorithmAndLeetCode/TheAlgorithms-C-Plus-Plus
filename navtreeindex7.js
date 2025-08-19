@@ -56,6 +56,7 @@ var NAVTREEINDEX7 =
 "d9/d27/namespacelist__array.html":[8,0,64],
 "d9/d29/ground__to__ground__projectile__motion_8cpp.html":[10,0,18,0],
 "d9/d29/ground__to__ground__projectile__motion_8cpp.html#a525335710b53cb064ca56b936120431e":[10,0,18,0,0],
+"d9/d29/ground__to__ground__projectile__motion_8cpp.html#a87aa13746e2b60524e028641493eaf5c":[10,0,18,0,7],
 "d9/d29/ground__to__ground__projectile__motion_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,18,0,5],
 "d9/d29/ground__to__ground__projectile__motion_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,18,0,3],
 "d9/d29/ground__to__ground__projectile__motion_8cpp_source.html":[10,0,18,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "da/d0d/longest__common__string_8cpp.html#acb03dbbcee6d607db471021168be8541":[10,0,6,14,4],
 "da/d0d/longest__common__string_8cpp.html#ad1e613c1b85cc04ed931b6c745fec155":[10,0,6,14,7],
 "da/d0d/longest__common__string_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,6,14,3],
-"da/d0d/longest__common__string_8cpp_source.html":[10,0,6,14],
-"da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node.html":[9,0,12,0,1]
+"da/d0d/longest__common__string_8cpp_source.html":[10,0,6,14]
 };
