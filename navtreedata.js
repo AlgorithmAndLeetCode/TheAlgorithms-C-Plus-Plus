@@ -137,18 +137,18 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d1/d83/classuint256__t.html#af2193ff0d0e93143fb71f4847df16028",
-"d3/d09/node_8hpp_source.html",
-"d4/d8f/travelling__salesman__using__bit__manipulation_8cpp_source.html",
-"d5/d95/structdata__structures_1_1treap_1_1_treap.html#a3081969b2714a8101f7df28b1ce5ed2c",
-"d6/dae/classothers_1_1lru__cache_1_1_l_r_u_cache.html#a7dbf04bf7e1472c48639694f0b110602",
-"d8/d2e/classothers_1_1_cache_1_1_l_r_u_cache.html#ab8b6a6aa95db678596bc2a49e864683e",
-"d8/dfd/structoperations__on__datastructures_1_1reverse__binary__tree_1_1_node.html#ae54953a75091532303bb08d55087077f",
-"da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node.html",
-"db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html#acf8ca54d5dd6676f255fff3dedacc7c6",
-"dc/d53/classtests_1_1_circular_linked_list.html#ab682f854f39582a20c9c4102f0482208",
-"dd/d47/namespacemath.html#ac37d3ba52eb296597d7a024ba8c4a5a5",
-"de/dcd/kadanes3_8cpp.html",
-"files.html"
+"d3/d06/ode__semi__implicit__euler_8cpp.html#aa13517b8e5de1b75592052db7f7e237f",
+"d4/d8d/jarvis__algorithm_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d5/d95/structdata__structures_1_1treap_1_1_treap.html",
+"d6/dae/classothers_1_1lru__cache_1_1_l_r_u_cache.html#a1aafd0444b410e0fcb66287e9954c893",
+"d8/d2e/classothers_1_1_cache_1_1_l_r_u_cache.html#a8980cbbc9cf0a98a9592b40c4d6ec28f",
+"d8/dfa/median__search2_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"da/d0d/longest__common__string_8cpp.html#aa38b6b17bc5d46ed88acdd8414e18fa5",
+"db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html",
+"dc/d53/classtests_1_1_circular_linked_list.html#a8f26dc32615abc5bab8ac458ef424bc5",
+"dd/d47/namespacemath.html#ab3b920cc56442abd92279ba23b50f4dc",
+"de/dc3/fibonacci__sum_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"dir_e3380d2178455503f266746fb14246a5.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';
