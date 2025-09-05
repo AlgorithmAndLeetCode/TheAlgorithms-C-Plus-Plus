@@ -137,18 +137,18 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d1/d83/classuint256__t.html#af2193ff0d0e93143fb71f4847df16028",
-"d3/d06/ode__semi__implicit__euler_8cpp.html#aa13517b8e5de1b75592052db7f7e237f",
-"d4/d8d/jarvis__algorithm_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"d5/d95/structdata__structures_1_1treap_1_1_treap.html",
-"d6/dae/classothers_1_1lru__cache_1_1_l_r_u_cache.html#a1aafd0444b410e0fcb66287e9954c893",
-"d8/d2e/classothers_1_1_cache_1_1_l_r_u_cache.html#a8980cbbc9cf0a98a9592b40c4d6ec28f",
-"d8/dfa/median__search2_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"da/d0d/longest__common__string_8cpp.html#aa38b6b17bc5d46ed88acdd8414e18fa5",
+"d3/d06/ode__semi__implicit__euler_8cpp.html#af3adf7b092a87868917ee5fb4255192b",
+"d4/d8f/travelling__salesman__using__bit__manipulation_8cpp.html",
+"d5/d95/structdata__structures_1_1treap_1_1_treap.html#a1ab082fe0aa95a238bbbc68ab6a72425",
+"d6/dae/classothers_1_1lru__cache_1_1_l_r_u_cache.html#a41c9b6f1693b8a316cc4a2d8c9149ba4",
+"d8/d2e/classothers_1_1_cache_1_1_l_r_u_cache.html#a8dab0f69410484f772946befd24cc3c5",
+"d8/dfd/structoperations__on__datastructures_1_1reverse__binary__tree_1_1_node.html",
+"da/d0d/longest__common__string_8cpp.html#ad1e613c1b85cc04ed931b6c745fec155",
 "db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html",
 "dc/d53/classtests_1_1_circular_linked_list.html#a8f26dc32615abc5bab8ac458ef424bc5",
-"dd/d47/namespacemath.html#ab3b920cc56442abd92279ba23b50f4dc",
-"de/dc3/fibonacci__sum_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"dir_e3380d2178455503f266746fb14246a5.html"
+"dd/d47/namespacemath.html#ab7f29862d30df351c317eedd60a0c656",
+"de/dc3/fibonacci__sum_8cpp_source.html",
+"dir_e79632891301b850df87e9c0030293fa.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';
