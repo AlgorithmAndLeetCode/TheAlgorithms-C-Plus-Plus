@@ -1,8 +1,5 @@
 var NAVTREEINDEX8 =
 {
-"da/d0d/longest__common__string_8cpp.html#ad1e613c1b85cc04ed931b6c745fec155":[10,0,6,14,7],
-"da/d0d/longest__common__string_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,6,14,3],
-"da/d0d/longest__common__string_8cpp_source.html":[10,0,6,14],
 "da/d15/class_memorised_factorial.html":[9,0,46],
 "da/d15/class_memorised_factorial.html#a35506357960575f150b44ae32fcbad29":[9,0,46,0],
 "da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node.html":[9,0,12,0,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX8 =
 "db/d40/integral__approximation2_8cpp.html":[10,0,14,27],
 "db/d40/integral__approximation2_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,14,27,3],
 "db/d40/integral__approximation2_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,14,27,2],
-"db/d40/integral__approximation2_8cpp_source.html":[10,0,14,27]
+"db/d40/integral__approximation2_8cpp_source.html":[10,0,14,27],
+"db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html":[9,0,2,4,0],
+"db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html#a2f80f87fc6f6ded938426698bba89323":[9,0,2,4,0,4],
+"db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html#a5540434e1b41245205eee86f664906f7":[9,0,2,4,0,3]
 };
